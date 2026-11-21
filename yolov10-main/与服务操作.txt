@@ -1,0 +1,4 @@
+unzip xun\(1\).zip   //解压缩
+tar -zcf train3.tgz train3//压缩文件夹
+cd  //进入文件夹
+cd.. //离开当前目录

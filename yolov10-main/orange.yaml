@@ -1,0 +1,15 @@
+path: yolov10
+train: images/train
+val: images/val
+nc: 5
+names: ['好橘子','生物损伤','物理损伤','环境损伤','自身损伤']
+
+
+
+
+
+
+
+
+
+

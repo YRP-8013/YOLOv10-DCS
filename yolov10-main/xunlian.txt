@@ -1,0 +1,1 @@
+yolo detect train data=D:\newyolov10\yolov10-main\yolov10-main\ultralytics\cfg\datasets\coco128.yaml model=D:\newyolov10\yolov10-main\yolov10-main\ultralytics\cfg\models\v10\yolov10n.yaml epochs=200 batch=20 imgsz=640 device=0
